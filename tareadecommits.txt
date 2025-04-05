@@ -1,1 +1,6 @@
 # tarea-commits
+
+
+
+¿Qué es una máquina virtual?
+Una máquina virtual (VM) es un entorno de software que simula un sistema informático, permitiendo ejecutar un sistema operativo completo como si fuera una computadora independiente, pero dentro de otra computadora física (host).
