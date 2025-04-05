@@ -11,4 +11,15 @@ primer commit
         var miembroTienda = Boolean.parseBoolean(consola.nextLine());
         
         var descuento = 0.0;
+segundo commit
+        
+        if (montoCompra >= montoTotalCompra && miembroTienda){
+            descuento = 0.1;
+            }
+        else if(miembroTienda){
+            descuento = 0.05;
+        }
+        else {
+            descuento  = 0;
+        }
 
