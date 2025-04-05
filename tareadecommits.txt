@@ -6,3 +6,15 @@ primer commit
 Una máquina virtual (VM) es un entorno de software que simula un sistema informático, permitiendo ejecutar un sistema operativo completo como si fuera una computadora independiente, pero dentro de otra computadora física (host).
 
 segundo commit
+
+
+
+Usos comunes:
+Pruebas de software sin afectar tu sistema real.
+
+Simulación de redes o servidores.
+
+Correr múltiples sistemas operativos en una sola máquina física.
+
+Seguridad (aislar procesos o servicios).
+
