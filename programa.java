@@ -22,4 +22,23 @@ segundo commit
         else {
             descuento  = 0;
         }
+ tercer commit
+    
+        if (descuento !=0){
+        var montoDescuento = montoCompra * descuento;
+        var montoFinal = montoCompra - montoDescuento;
+        System.out.println("---Felicidades ha ubtenido un descuento---");
+        System.out.println("Valor total del descuento: " + descuento * 100);
+        System.out.println("Valor total de compra: " +  montoCompra);
+        System.out.println("Monto del descuento: " + montoDescuento);
+        System.out.println("Monto final: " + montoFinal);
+        
+        }
+        else {
+            System.out.println("_-_-No hubo ningun descuento-_-_");
+            System.out.println("Monto de compra: " + montoCompra);
+        }
+        
+        }
+}
 
